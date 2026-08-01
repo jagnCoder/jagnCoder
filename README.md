@@ -1,8 +1,8 @@
 <!--
   ============================================================
-  Photo lives at assets/photo.png — push it to your repo
-  alongside README.md and this folder structure, no extra
-  setup needed.
+  Photo lives at photo.png in the repo root — all image files
+  (photo.png + 4 svgs) sit at the top level of this repo, no
+  assets/ subfolder needed.
 
   GitHub username and LinkedIn are already filled in.
   Still need: YOUR_WEBSITE → your portfolio site URL
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="./assets/editor_banner.svg" width="100%" alt="editor banner"/>
+<img src="./editor_banner.svg" width="100%" alt="editor banner"/>
 
 <br/><br/>
 
@@ -20,7 +20,7 @@
 <tr>
 <td align="center" width="160">
 
-<img src="./assets/photo.png" width="140" height="140" style="border-radius:50%;border:3px solid #61AFEF;object-fit:cover;" alt="Jagan Mohan Dash"/>
+<img src="./photo.png" width="140" height="140" style="border-radius:50%;border:3px solid #61AFEF;object-fit:cover;" alt="Jagan Mohan Dash"/>
 
 </td>
 <td valign="middle">
@@ -45,7 +45,7 @@
 
 </div>
 
-<img src="./assets/rule.svg" width="100%"/>
+<img src="./rule.svg" width="100%"/>
 
 ## `// ABOUT`
 
@@ -57,7 +57,7 @@
 - Not interested in tutorials that never ship
 ```
 
-<img src="./assets/rule.svg" width="100%"/>
+<img src="./rule.svg" width="100%"/>
 
 ## `// STACK`
 
@@ -129,7 +129,7 @@ linux
 </tr>
 </table>
 
-<img src="./assets/rule.svg" width="100%"/>
+<img src="./rule.svg" width="100%"/>
 
 ## `// SKILLS.md`
 
@@ -142,7 +142,7 @@ Cybersecurity          █████████████░░░░░░
 UI / UX                ███████████████░░░░░  75%
 ```
 
-<img src="./assets/rule.svg" width="100%"/>
+<img src="./rule.svg" width="100%"/>
 
 ## `// PROJECTS`
 
@@ -214,7 +214,7 @@ stack: [Python, SQL]
 [`→ source`](https://github.com/jagnCoder/train-details-retrieval)
 </details>
 
-<img src="./assets/rule.svg" width="100%"/>
+<img src="./rule.svg" width="100%"/>
 
 ## `// EDUCATION`
 
@@ -224,7 +224,7 @@ Aryan Institute of Engineering and Technology (AIET), Bhubaneswar
 CGPA: 8.5
 ```
 
-<img src="./assets/rule.svg" width="100%"/>
+<img src="./rule.svg" width="100%"/>
 
 ## `// CERTIFICATIONS`
 
@@ -235,7 +235,7 @@ CGPA: 8.5
 - [x] Computer Networks and Network Security
 - [x] Generative AI: Boost Your Cybersecurity Career
 
-<img src="./assets/rule.svg" width="100%"/>
+<img src="./rule.svg" width="100%"/>
 
 ## `// STATS`
 
@@ -259,7 +259,7 @@ CGPA: 8.5
 ```
 </details>
 
-<img src="./assets/status_bar.svg" width="100%"/>
+<img src="./status_bar.svg" width="100%"/>
 
 <div align="center">
 <sub>Jagan Mohan Dash · compiled without errors</sub>
