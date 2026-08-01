@@ -1,0 +1,18 @@
+<svg width="100%" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="90" fill="#21252B"/>
+  <rect width="1200" height="26" fill="#61AFEF"/>
+
+  <g font-family="Consolas, Menlo, monospace" font-size="13" fill="#21252B">
+    <text x="20" y="18">⎇ main</text>
+    <text x="100" y="18">✓ 0 problems</text>
+    <text x="1060" y="18">Ln 42, Col 7</text>
+    <text x="1160" y="18">UTF-8</text>
+  </g>
+
+  <text x="600" y="60" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="16" fill="#5C6370">
+    // EOF — thanks for reading the whole file
+  </text>
+  <rect x="740" y="47" width="9" height="16" fill="#61AFEF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#61AFEF">
+        <animate attributeName="stop-color" values="#61AFEF;#98C379;#E5C07B;#61AFEF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#98C379">
+        <animate attributeName="stop-color" values="#98C379;#E5C07B;#61AFEF;#98C379" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <circle cx="70" cy="70" r="64" fill="none" stroke="url(#ringGrad)" stroke-width="3" stroke-dasharray="8 6">
+    <animateTransform attributeName="transform" type="rotate" from="0 70 70" to="360 70 70" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="70" cy="70" r="54" fill="none" stroke="#3A3F4B" stroke-width="1"/>
+</svg>

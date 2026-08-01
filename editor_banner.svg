@@ -1,0 +1,41 @@
+<svg width="100%" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="editorBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#282C34"/>
+      <stop offset="100%" stop-color="#21252B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="170" rx="10" fill="url(#editorBg)"/>
+
+  <!-- title bar -->
+  <rect width="1200" height="36" rx="10" fill="#21252B"/>
+  <rect y="24" width="1200" height="12" fill="#21252B"/>
+  <circle cx="26" cy="18" r="6" fill="#E06C75"/>
+  <circle cx="48" cy="18" r="6" fill="#E5C07B"/>
+  <circle cx="70" cy="18" r="6" fill="#98C379"/>
+
+  <!-- tab bar -->
+  <rect x="0" y="36" width="1200" height="30" fill="#21252B"/>
+  <rect x="0" y="36" width="150" height="30" fill="#282C34"/>
+  <rect x="0" y="65" width="150" height="2" fill="#61AFEF"/>
+  <text x="24" y="56" font-family="Consolas, Menlo, monospace" font-size="13" fill="#ABB2BF">README.md</text>
+  <text x="170" y="56" font-family="Consolas, Menlo, monospace" font-size="13" fill="#5C6370">profile.ts</text>
+
+  <!-- code line with typing cursor -->
+  <g font-family="Consolas, Menlo, monospace" font-size="20">
+    <text x="30" y="110" fill="#5C6370">1</text>
+    <text x="70" y="110" fill="#C678DD">const</text>
+    <text x="150" y="110" fill="#61AFEF">developer</text>
+    <text x="290" y="110" fill="#ABB2BF">=</text>
+    <text x="315" y="110" fill="#98C379">"open to opportunities"</text>
+    <text x="655" y="110" fill="#ABB2BF">;</text>
+
+    <text x="30" y="140" fill="#5C6370">2</text>
+    <text x="70" y="140" fill="#5C6370">// building things that shouldn't work, but do</text>
+  </g>
+
+  <rect x="668" y="94" width="10" height="20" fill="#61AFEF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
