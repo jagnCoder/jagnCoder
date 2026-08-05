@@ -36,7 +36,6 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/-jagnsuvhamohan%40gmail.com-21252B?style=flat-square&logo=gmail&logoColor=61AFEF)](mailto:jagnsuvhamohan@gmail.com)
-[![Phone](https://img.shields.io/badge/-%2B91%207205851603-21252B?style=flat-square&logo=whatsapp&logoColor=98C379)](tel:+917205851603)
 [![GitHub](https://img.shields.io/badge/-GITHUB__USERNAME-21252B?style=flat-square&logo=github&logoColor=ABB2BF)](https://github.com/jagnCoder)
 [![LinkedIn](https://img.shields.io/badge/-Connect-21252B?style=flat-square&logo=linkedin&logoColor=61AFEF)](https://linkedin.com/in/jagan-mohan-dash)
 [![Website](https://img.shields.io/badge/-Portfolio-21252B?style=flat-square&logo=vercel&logoColor=E5C07B)](YOUR_WEBSITE)
