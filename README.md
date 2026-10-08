@@ -142,7 +142,6 @@ linux
 <img src="./rule.svg" width="100%"/>
 
 
-```
 ## `// SKILLS`
 
 ```text
