@@ -30,7 +30,7 @@
   [![Email](https://img.shields.io/badge/-jagnsuvhamohan%40gmail.com-21252B?style=flat-square&logo=gmail&logoColor=61AFEF)](mailto:jagnsuvhamohan@gmail.com)
   [![GitHub](https://img.shields.io/badge/-jagnCoder-21252B?style=flat-square&logo=github&logoColor=ABB2BF)](https://github.com/jagnCoder)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-21252B?style=flat-square&logo=linkedin&logoColor=61AFEF)](https://linkedin.com/in/jagan-mohan-dash)
-  [![Website](https://img.shields.io/badge/-Portfolio-21252B?style=flat-square&logo=vercel&logoColor=E5C07B)](https://jagan-mohan-dash.netlify.app/)
+  [![Website](https://img.shields.io/badge/-Portfolio-21252B?style=flat-square&logo=vercel&logoColor=E5C07B)](https://jagncoder.github.io/Portfolio/)
 
   <img src="https://komarev.com/ghpvc/?username=jagnCoder&label=views&color=282C34&style=flat-square" />
 </div>
@@ -168,7 +168,7 @@ features:
   - Secure onboarding workflows
   - Deployed live on Render
 ```
-[`→ source`](https://github.com/jagnCoder/neighborhood-helpboard)
+[`→ live`](https://neighbour-helpboard.onrender.com/) · [`→ source`](https://github.com/jagnCoder/neighborhood-helpboard)
 </details>
 
 <details>
@@ -180,20 +180,22 @@ features:
   - Polished UI/UX grids and charts
   - Published via GitHub Pages
 ```
-[`→ live`](YOUR_WEBSITE) · [`→ source`](https://github.com/jagnCoder/portfolio)
+[`→ live`](https://jagan-mohan-dash.netlify.app/) · [`→ source`](https://github.com/jagnCoder/portfolio)
 </details>
 
 <details>
-<summary><b>elearn-project</b> — E-learning platform</summary>
+<summary><b>color-guessing-game</b> — Interactive browser game</summary>
 
 ```yaml
-description: Structured modules with guided explanations for learners
+description: Fun and responsive RGB color matching game built with vanilla web technologies
 features:
-  - Clean frontend file/folder organization
-  - Accessibility-focused design
+  - Dynamic RGB color generation
+  - Interactive difficulty levels and score tracking
+  - Clean UI with smooth transitions
 ```
-[`→ source`](https://github.com/jagnCoder/elearn-project)
+[`→ live`](https://color-guessing-game-by-jagn.netlify.app/) · [`→ source`](https://github.com/jagnCoder/Jagn-html-games)
 </details>
+
 
 <details>
 <summary><b>flight-management-system</b> — Console app + SQLite</summary>
@@ -206,7 +208,7 @@ stack: [Python, SQLite]
 </details>
 
 <details>
-<summary><b>hotel-management-system</b> — Automated booking system</summary>
+<summary><b>hotel-management-system</b> — Console based Automated booking system</summary>
 
 ```yaml
 description: Room booking, billing, and availability tracking
@@ -216,7 +218,7 @@ stack: [Python, SQLite]
 </details>
 
 <details>
-<summary><b>train-details-retrieval</b> — Database search app</summary>
+<summary><b>train-details-retrieval</b> — Console based Database search app</summary>
 
 ```yaml
 description: Fast lookup and display of train information
