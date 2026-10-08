@@ -203,29 +203,51 @@ features:
 ```yaml
 description: Passenger registration, booking, search, and cancellations
 stack: [Python, SQLite]
+
 ```
-[`→ source`](https://github.com/jagnCoder/flight-management-system)
+
+[`→ source`](https://github.com/jagnCoder/Python-OOP-and-DB-Foundations/tree/main/Database_Connectivity/flight%20Project%20with%20SQLite)
 </details>
 
-<details>
-<summary><b>hotel-management-system</b> — Console based Automated booking system</summary>
 
+<details>
+<summary><b>Hotel-management-system</b> — Console based Automated booking system</summary>
+  
 ```yaml
 description: Room booking, billing, and availability tracking
 stack: [Python, SQLite]
+
 ```
-[`→ source`](https://github.com/jagnCoder/hotel-management-system)
+
+[`→ source`](https://github.com/jagnCoder/Python-OOP-and-DB-Foundations/tree/main/Database_Connectivity/Hotel%20Management)
 </details>
 
-<details>
-<summary><b>train-details-retrieval</b> — Console based Database search app</summary>
+
+<details>  
+<summary><b>Retrive-Train-Details</b> — Console based Database look-up</summary>
 
 ```yaml
 description: Fast lookup and display of train information
 stack: [Python, SQL]
+
 ```
-[`→ source`](https://github.com/jagnCoder/train-details-retrieval)
+
+[`→ source`](https://github.com/jagnCoder/Python-OOP-and-DB-Foundations/tree/main/Database_Connectivity/Retrive%20Train%20Details)
 </details>
+
+
+<details>
+<summary><b>Update account Balance</b> — banking Utility Script + Console app</summary>
+  
+```yaml
+description: Secure balance modification and transaction logging
+stack: [Python, SQLite]
+
+```
+
+[`→ source`](https://github.com/jagnCoder/Python-OOP-and-DB-Foundations/tree/main/Database_Connectivity/Update%20account%20balance)
+</details>
+
 
 <img src="./rule.svg" width="100%"/>
 
@@ -236,6 +258,7 @@ Bachelor of Technology — Computer Science and Engineering
 Aryan Institute of Engineering and Technology (AIET), Bhubaneswar
 CGPA: 8.5
 ```
+
 
 <img src="./rule.svg" width="100%"/>
 
