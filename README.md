@@ -11,39 +11,29 @@
 -->
 
 <div align="center">
+  <img src="./editor_banner.svg" width="100%" alt="editor banner" />
+  <br />
+  <br />
+  <table>
+    <tr>
+      <td align="center" width="160">
+        <img src="./photo.png" width="140" height="140" style="border-radius: 50%; border: 3px solid #61AFEF; object-fit: cover;" alt="Jagan Mohan Dash" />
+      </td>
+      <td valign="middle">
+        <h2>Jagan Mohan Dash</h2>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=61AFEF&center=false&vCenter=true&width=500&lines=B.Tech+CSE+%40+AIET%2C+Bhubaneswar;Team+Lead+%7C+Frontend+%7C+Backend+%7C+Prompt+Engineer;CGPA%3A+8.5+%7C+Open+to+opportunities" alt="typing animation" />
+      </td>
+    </tr>
+  </table>
+  <br />
 
-<img src="./editor_banner.svg" width="100%" alt="editor banner"/>
+  [![Email](https://img.shields.io/badge/-jagnsuvhamohan%40gmail.com-21252B?style=flat-square&logo=gmail&logoColor=61AFEF)](mailto:jagnsuvhamohan@gmail.com)
+  [![GitHub](https://img.shields.io/badge/-jagnCoder-21252B?style=flat-square&logo=github&logoColor=ABB2BF)](https://github.com/jagnCoder)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-21252B?style=flat-square&logo=linkedin&logoColor=61AFEF)](https://linkedin.com/in/jagan-mohan-dash)
+  [![Website](https://img.shields.io/badge/-Portfolio-21252B?style=flat-square&logo=vercel&logoColor=E5C07B)](https://jagan-mohan-dash.netlify.app/)
 
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="160">
-
-<img src="./photo.png" width="140" height="140" style="border-radius:50%;border:3px solid #61AFEF;object-fit:cover;" alt="Jagan Mohan Dash"/>
-
-</td>
-<td valign="middle">
-
-<h2>Jagan Mohan Dash</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=61AFEF&center=false&vCenter=true&width=500&lines=B.Tech+CSE+%40+AIET%2C+Bhubaneswar;Team+Lead+%7C+Frontend+%7C+Backend+%7C+Prompt+Engineer;CGPA%3A+8.5+%7C+Open+to+opportunities" alt="typing animation"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-[![Email](https://img.shields.io/badge/-jagnsuvhamohan%40gmail.com-21252B?style=flat-square&logo=gmail&logoColor=61AFEF)](mailto:jagnsuvhamohan@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GITHUB__USERNAME-21252B?style=flat-square&logo=github&logoColor=ABB2BF)](https://github.com/jagnCoder)
-[![LinkedIn](https://img.shields.io/badge/-Connect-21252B?style=flat-square&logo=linkedin&logoColor=61AFEF)](https://linkedin.com/in/jagan-mohan-dash)
-[![Website](https://img.shields.io/badge/-Portfolio-21252B?style=flat-square&logo=vercel&logoColor=E5C07B)](YOUR_WEBSITE)
-
-<img src="https://komarev.com/ghpvc/?username=jagnCoder&label=views&color=282C34&style=flat-square" />
-
+  <img src="https://komarev.com/ghpvc/?username=jagnCoder&label=views&color=282C34&style=flat-square" />
 </div>
-
 <img src="./rule.svg" width="100%"/>
 
 ## `// ABOUT`
