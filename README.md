@@ -50,35 +50,46 @@
 
 ## `// STACK`
 
+
 <table>
 <tr>
 <td valign="top" width="33%">
 
 **languages**
+
 ```
+
 python
 javascript
 sql
+
 ```
 
 </td>
 <td valign="top" width="33%">
 
 **frontend**
+
 ```
+
 react
 vite
 html / css
+
 ```
 
 </td>
 <td valign="top" width="33%">
 
 **backend**
+
 ```
+
 python
 sqlite
+supabase
 tcp/ip sockets
+
 ```
 
 </td>
@@ -87,31 +98,41 @@ tcp/ip sockets
 <td valign="top" width="33%">
 
 **security**
+
 ```
+
 pentesting
 network security
-cryptography
 threat hunting
+
 ```
 
 </td>
 <td valign="top" width="33%">
 
 **ai / prompting**
+
 ```
+
 prompt engineering
 generative ai
+
 ```
 
 </td>
 <td valign="top" width="33%">
 
 **deploy / tools**
+
 ```
+
 render
 github pages
+docker
+postman
 git
 linux
+
 ```
 
 </td>
@@ -120,6 +141,8 @@ linux
 
 <img src="./rule.svg" width="100%"/>
 
+
+```
 ## `// SKILLS.md`
 
 ```
