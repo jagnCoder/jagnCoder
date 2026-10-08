@@ -262,14 +262,22 @@ CGPA: 8.5
 
 <img src="./rule.svg" width="100%"/>
 
-## `// CERTIFICATIONS`
+## 📜 CERTIFICATIONS
+- [x] [Introduction to Generative AI (Google Cloud)](https://www.coursera.org/account/accomplishments/verify/UHBM09A7OVUS)
+- [x] [Introduction to Cybersecurity Tools & Cyberattacks (IBM)](https://www.coursera.org/account/accomplishments/verify/WY0R7EITQAM1)
+- [x] [Introduction to Web Development with HTML, CSS, JavaScript (IBM)](https://www.coursera.org/account/accomplishments/verify/MRBX1J6RRQ0Y)
+- [x] [Getting Started with Git and GitHub (IBM)](https://www.coursera.org/account/accomplishments/verify/IMILB6OCGUB2)
+- [x] [Introduction to Generative AI (Google Cloud)](https://www.coursera.org/account/accomplishments/verify/UHBM09A7OVUS)
+- [x] [Operating Systems: Overview, Administration, and Security (IBM)](https://www.coursera.org/account/accomplishments/verify/RCUZ4LGDBZ98)
+- [x] [Computer Networks and Network Security (IBM)](https://www.coursera.org/account/accomplishments/verify/WR9GFH7U9PTX)
+- [x] [Generative AI: Boost Your Cybersecurity Career (IBM)](https://www.coursera.org/account/accomplishments/verify/TTNFRO6FCFIJ)
 
-- [x] Introduction to Cybersecurity Tools & Cyberattacks
-- [x] Operating Systems: Overview, Administration, and Security
-- [x] Cybersecurity Compliance Framework, Standards & Regulations
-- [x] Penetration Testing, Threat Hunting, and Cryptography
-- [x] Computer Networks and Network Security
-- [x] Generative AI: Boost Your Cybersecurity Career
+
+For the Node.js (Unstop) certificate, I currently have the credential ID:
+
+df1de699-d6df-446d-8fcd-31f44d229503
+
+but not the direct "Show Credential" URL. If you provide the credential link once, I can format it similarly for your README.
 
 <img src="./rule.svg" width="100%"/>
 
