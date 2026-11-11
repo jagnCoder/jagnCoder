@@ -30,7 +30,7 @@
   [![Email](https://img.shields.io/badge/-jagnsuvhamohan%40gmail.com-21252B?style=flat-square&logo=gmail&logoColor=61AFEF)](mailto:jagnsuvhamohan@gmail.com)
   [![GitHub](https://img.shields.io/badge/-jagnCoder-21252B?style=flat-square&logo=github&logoColor=ABB2BF)](https://github.com/jagnCoder)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-21252B?style=flat-square&logo=linkedin&logoColor=61AFEF)](https://linkedin.com/in/jagan-mohan-dash)
-  [![Website](https://img.shields.io/badge/-Portfolio-21252B?style=flat-square&logo=vercel&logoColor=E5C07B)](https://jagncoder.github.io/Portfolio/)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-21252B?style=flat-square&logo=vercel&logoColor=E5C07B)](https://jagan-mohan-dash.netlify.app/
 
   <img src="https://komarev.com/ghpvc/?username=jagnCoder&label=views&color=282C34&style=flat-square" />
 </div>
@@ -40,6 +40,7 @@
 
 ```diff
 + Actively building a strong foundation in core CS & engineering principles
++ Building full-stack applications and modern web experiences
 + Led teams across multiple hackathons — front, back, and prompt layers
 + Exploring cybersecurity: pentesting, threat hunting, cryptography, networking
 + Open to internships and real engineering problems
@@ -125,7 +126,7 @@ generative ai
 **deploy / tools**
 
 ```
-
+netlify
 render
 github pages
 docker
@@ -175,10 +176,12 @@ features:
 <summary><b>portfolio-site</b> — React + Vite portfolio</summary>
 
 ```yaml
-description: Responsive personal portfolio with interactive skills/project showcase
+description: Modern developer portfolio showcasing projects, certifications, deployment workflows, and AI-assisted development practices
 features:
-  - Polished UI/UX grids and charts
-  - Published via GitHub Pages
+  - Modern responsive UI/UX
+  - AI-assisted development workflow
+  - Optimized performance and accessibility
+  - Deployed via Netlify
 ```
 [`→ live`](https://jagan-mohan-dash.netlify.app/) · [`→ source`](https://github.com/jagnCoder/portfolio)
 </details>
@@ -267,7 +270,6 @@ CGPA: 8.5
 - [x] [Introduction to Cybersecurity Tools & Cyberattacks (IBM)](https://www.coursera.org/account/accomplishments/verify/WY0R7EITQAM1)
 - [x] [Introduction to Web Development with HTML, CSS, JavaScript (IBM)](https://www.coursera.org/account/accomplishments/verify/MRBX1J6RRQ0Y)
 - [x] [Getting Started with Git and GitHub (IBM)](https://www.coursera.org/account/accomplishments/verify/IMILB6OCGUB2)
-- [x] [Introduction to Generative AI (Google Cloud)](https://www.coursera.org/account/accomplishments/verify/UHBM09A7OVUS)
 - [x] [Operating Systems: Overview, Administration, and Security (IBM)](https://www.coursera.org/account/accomplishments/verify/RCUZ4LGDBZ98)
 - [x] [Computer Networks and Network Security (IBM)](https://www.coursera.org/account/accomplishments/verify/WR9GFH7U9PTX)
 - [x] [Generative AI: Boost Your Cybersecurity Career (IBM)](https://www.coursera.org/account/accomplishments/verify/TTNFRO6FCFIJ)
@@ -296,7 +298,7 @@ but not the direct "Show Credential" URL. If you provide the credential link onc
 ```
 * commit  preparing-for-advanced-roles
 * commit  cgpa-8.5-and-counting
-* commit  6-certifications-in-cybersecurity-and-ai
+* commit  earned-multiple-certifications-in-cybersecurity-and-ai
 * commit  shipped-6-projects-solo-and-in-teams
 * commit  led-first-hackathon-as-team-lead
 * commit  init: started b.tech cse @ aiet-bhubaneswar
