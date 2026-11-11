@@ -5,7 +5,6 @@
   assets/ subfolder needed.
 
   GitHub username and LinkedIn are already filled in.
-  Still need: YOUR_WEBSITE → your portfolio site URL
   (or say the word and I'll drop that link entirely)
   ============================================================
 -->
